@@ -1,5 +1,5 @@
 
-import java.util.Scanner;
+import java.util.*;
 
 class Product {
     int id;
