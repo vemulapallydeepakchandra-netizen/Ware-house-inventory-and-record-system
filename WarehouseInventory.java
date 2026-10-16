@@ -19,7 +19,7 @@ class Product {
         System.out.println("Product Name: " + name);
         System.out.println("Quantity: " + quantity);
         System.out.println("Price: Rs. " + price);
-        System.out.println("----------------------"
+        System.out.println("----------------------");
     }
 }
 
