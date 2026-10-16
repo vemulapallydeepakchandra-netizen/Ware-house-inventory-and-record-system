@@ -11,7 +11,7 @@ class Product {
         this.id = id;
         this.name = name;
         this.quantity = quantity;
-        this.price = price
+        this.price = price;
     }
 
     void display() {
