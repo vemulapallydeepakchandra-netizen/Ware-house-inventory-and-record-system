@@ -4,7 +4,7 @@ import java.util.Scanner;
 class Product {
     int id;
     String name;
-    int quantity
+    int quantity;
     double price;
 
     Product(int id, String name, int quantity, double price) {
