@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-class roduct {
+class Product {
     int id;
     String name;
     int quantity;
