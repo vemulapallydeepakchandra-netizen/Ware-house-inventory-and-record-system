@@ -1,7 +1,7 @@
 
 import java.util.*;
 
-class Product 
+class Product {
     int id;
     String name;
     int quantity;
